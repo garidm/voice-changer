@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "voice-changer-1",
+			"path": "../voice-changer-1"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.css": "postcss"
+		},
+		"workbench.colorCustomizations": {
+			"tab.activeBackground": "#65952acc"
+		}
+	}
+}
